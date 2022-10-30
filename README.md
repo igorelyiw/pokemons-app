@@ -14,33 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Desktop
+<img width="570" alt="Снимок экрана 2022-10-30 в 20 48 11" src="https://user-images.githubusercontent.com/49938945/198896332-c1e61fda-2731-45d5-a04b-8dff8a6dd02e.png">
+<img width="568" alt="Снимок экрана 2022-10-30 в 20 48 24" src="https://user-images.githubusercontent.com/49938945/198896341-9ce6586e-9a9f-41e4-89d1-c9c232514c85.png">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Mobile
+<img width="604" alt="Снимок экрана 2022-10-30 в 20 51 54" src="https://user-images.githubusercontent.com/49938945/198896368-e286fb7c-ab05-47d7-9aa0-ba83b3a711a0.png">
+<img width="601" alt="Снимок экрана 2022-10-30 в 20 52 06" src="https://user-images.githubusercontent.com/49938945/198896374-c1ec3236-f84c-4f8e-b649-552dfd1c68cf.png">
